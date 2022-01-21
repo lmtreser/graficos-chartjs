@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Desarrollo de Software</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es un documento HTML5">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <link rel="stylesheet" href="estilos.css">
+    <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/p5.serialport.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/Chart.min.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/luxon-1.27.0.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/chartjs-adapter-luxon-1.0.0.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/chartjs-plugin-streaming.js"></script>
+    <script language="javascript" type="text/javascript" src="interface.js"></script>
+</head>
+
+<body>
+
+    <div id="contenedor">
+        <div id="encabezado">
+            <h1>REGISTRO DE DATOS</h1>
+            <span>| Gráficos con niveles históricos y en tiempo real</span>
+        </div>
+        <div id="izquierda">
+            <canvas id="cizq"></canvas>
+        </div>
+        <div id="derecha">
+            <canvas id="cder"></canvas>
+        </div>
+        <div id="pie" style="position: relative;"></div>
+    </div>
+
+    <!-- Script que grafica los datos -->
+    <script language="javascript" type="text/javascript" src="graficos.js"></script>
+</body>
+
+</html>
