@@ -30,8 +30,6 @@ Presentación de Desarrollo de Software, un simple *demo* que integra un conjunt
 
 ## Licencia
 
-## Licencia
-
 Este trabajo está protegido por la **Licencia MIT**. Puedes acceder a la versión original de la licencia (en inglés) a través del archivo [LICENSE](./LICENSE) o en línea en [The MIT License (MIT)](https://mit-license.org/). También proporcionamos una traducción no oficial desde [Wikipedia](https://es.m.wikipedia.org/wiki/Licencia_MIT#La_licencia):
 
 Copyright (c) 2024 Lucas Martín Treser
