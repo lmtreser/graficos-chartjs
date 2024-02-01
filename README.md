@@ -1,6 +1,6 @@
 # Desarrollo de Software
 
-Presentación de Desarrollo de Software
+Presentación de Desarrollo de Software, un simple *demo* que integra un conjunto de tecnologías ¿disruptivas?. Se puede acceder a una instancia en línea en **[este en enlace](https://automatismos-mdq.com.ar/blog/tools/monitor/)**.
 
 ![Arduino Mashup](/ui.png)
 
@@ -27,3 +27,7 @@ Presentación de Desarrollo de Software
 ## Tecnologías
 
 ![Arduino Mashup](/mashup.png)
+
+## Licencia
+
+
