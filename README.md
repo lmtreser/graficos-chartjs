@@ -2,7 +2,7 @@
 
 Presentación de Desarrollo de Software, un simple *demo* que integra un conjunto de tecnologías ¿disruptivas?. Se puede acceder a una instancia en línea en **[este en enlace](https://automatismos-mdq.com.ar/blog/tools/monitor/)**.
 
-![Arduino Mashup](/ui.png)
+![Arduino Mashup](./docs/ui.png)
 
 ## Listado de componentes 
 
@@ -26,7 +26,7 @@ Presentación de Desarrollo de Software, un simple *demo* que integra un conjunt
 
 ## Tecnologías
 
-![Arduino Mashup](/mashup.png)
+![Arduino Mashup](./docs/mashup.png)
 
 ## Licencia
 
