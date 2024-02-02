@@ -3,7 +3,7 @@ let ui = function(p) {
     let tipografia;
 
     p.preload = function() {
-        fuente = p.loadFont('/fonts/FiraSans-SemiBold.ttf');
+        fuente = p.loadFont('fonts/FiraSans-SemiBold.ttf');
     };
 
     p.setup = function() {
